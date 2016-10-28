@@ -7,7 +7,7 @@
 * .NET (Xamarin and Windows 10) : https://github.com/CartoDB/mobile-dotnet-samples
 
 # SDK docs
-
+* SDK itself: https://github.com/CartoDB/mobile-sdk
 * Developer docs: https://carto.com/docs/carto-engine/mobile-sdk/
 
 # Other materials

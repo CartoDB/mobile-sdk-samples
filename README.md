@@ -10,6 +10,5 @@
 * SDK itself: https://github.com/CartoDB/mobile-sdk
 * Developer docs: https://carto.com/docs/carto-engine/mobile-sdk/
 
-# Other materials
-
-* Video channel: https://www.youtube.com/playlist?list=PLax6ujmXmke6JkEAWn0sjnIqyubbvP2_N
+# Complete app as source
+* Offline Maps 3D for Android: https://github.com/CartoDB/mobile-android-maps-app 

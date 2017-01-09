@@ -15,8 +15,8 @@
 * SDK itself: https://github.com/CartoDB/mobile-sdk
 * Developer docs: https://carto.com/docs/carto-engine/mobile-sdk/
 
-# Complete Offline Maps 3D app
+# Complete Nutiteq Offline Maps 3D app
 * Android sources: https://github.com/CartoDB/mobile-android-maps-app 
-* Direct install to device: https://rink.hockeyapp.net/apps/76020eeae02d41738f1bbed0f1350528
+* Direct install to device: https://rink.hockeyapp.net/apps/76020eeae02d41738f1bbed0f1350528!(
 
-
+![Offline Maps 3D](https://raw.githubusercontent.com/CartoDB/mobile-sdk-samples/master/docs/offlinemaps_screen.png)

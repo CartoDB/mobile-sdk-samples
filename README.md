@@ -15,5 +15,8 @@
 * SDK itself: https://github.com/CartoDB/mobile-sdk
 * Developer docs: https://carto.com/docs/carto-engine/mobile-sdk/
 
-# Complete app as source
-* Offline Maps 3D for Android: https://github.com/CartoDB/mobile-android-maps-app 
+# Complete Offline Maps 3D app
+* Android sources: https://github.com/CartoDB/mobile-android-maps-app 
+* Direct install to device: https://rink.hockeyapp.net/apps/76020eeae02d41738f1bbed0f1350528
+
+

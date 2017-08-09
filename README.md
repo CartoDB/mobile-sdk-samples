@@ -8,7 +8,7 @@
 
 # Ready to use app builds for direct install:
 * Android apps in Play Store with released SDK: https://play.google.com/store/apps/developer?id=CARTO
-* Android AdvancedMap, development SDK: https://rink.hockeyapp.net/apps/20ab1b68740a405595675c43783e7da0
+* Android AdvancedMap, development SDK: https://rink.hockeyapp.net/apps/a1008a0e3e0f444d8770d3810f3d34c0
 * Android CARTO Engine Map, development SDK: https://rink.hockeyapp.net/apps/2e7217323aaf4ca48f66a1518497b744
 * iOS AdvancedMap and CARTO Engine Map: ask *mobile-app -at- carto.com*
 

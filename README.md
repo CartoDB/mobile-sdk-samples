@@ -12,12 +12,13 @@
 * Android CARTO Engine Map, development SDK: https://rink.hockeyapp.net/apps/2e7217323aaf4ca48f66a1518497b744
 * iOS AdvancedMap and CARTO Engine Map: ask *mobile-app -at- carto.com*
 
+# Specific use case sample apps
+* Pro app: basic **Mobile Data Collection** for iPhone and Android - https://github.com/CartoDB/mobile-sample-data-collection
+* End-user app: **Offline Maps in 3D** with navigation, search, offline downloads : https://github.com/CartoDB/mobile-android-maps-app; [Direct install to device](https://rink.hockeyapp.net/apps/76020eeae02d41738f1bbed0f1350528)
+
 # SDK docs
 * SDK itself: https://github.com/CartoDB/mobile-sdk
 * Developer docs: https://carto.com/docs/carto-engine/mobile-sdk/
 
-# Complete Nutiteq Offline Maps 3D app
-* Android sources: https://github.com/CartoDB/mobile-android-maps-app 
-* Direct install to device: https://rink.hockeyapp.net/apps/76020eeae02d41738f1bbed0f1350528!(
 
 ![Offline Maps 3D](https://raw.githubusercontent.com/CartoDB/mobile-sdk-samples/master/docs/offlinemaps_screen.png)

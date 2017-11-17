@@ -2,8 +2,8 @@
 
 # Sample code for specific platforms:
 
-* Android : https://github.com/CartoDB/mobile-android-samples
-* iOS : https://github.com/CartoDB/mobile-ios-samples
+* Android (Java, Kotlin) : https://github.com/CartoDB/mobile-android-samples
+* iOS (ObjectiveC, Swift) : https://github.com/CartoDB/mobile-ios-samples
 * .NET (Xamarin and Windows 10) : https://github.com/CartoDB/mobile-dotnet-samples
 
 # Ready to use app builds for direct install:
@@ -15,6 +15,10 @@
 # Specific use case sample apps
 * Pro app: basic **Mobile Data Collection** for iPhone and Android - https://github.com/CartoDB/mobile-sample-data-collection
 * End-user app: **Offline Maps in 3D** with navigation, search, offline downloads : https://github.com/CartoDB/mobile-android-maps-app; [Direct install to device](https://rink.hockeyapp.net/apps/76020eeae02d41738f1bbed0f1350528)
+
+# Experimental platforms / Javascript
+* React Native: https://github.com/CartoDB/mobile-sdk-react-native
+* Cordova/PhoneGAP: https://github.com/CartoDB/mobile-cordova-samples
 
 # SDK docs
 * SDK itself: https://github.com/CartoDB/mobile-sdk
